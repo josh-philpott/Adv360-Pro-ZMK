@@ -1,3 +1,15 @@
+macro_ctrl-u: macro_ctrl-u{
+compatible = "zmk,behavior-macro";
+label = "macro_ctrl-u";
+#binding-cells = <0>;
+bindings = <&kp RCTRL>, <&kp U>;
+};
+macro_ctrl-d: macro_ctrl-d{
+compatible = "zmk,behavior-macro";
+label = "macro_ctrl-d";
+#binding-cells = <0>;
+bindings = <&kp RCTRL>, <&kp D>;
+};
 macro_quotes: macro_quotes{
 compatible = "zmk,behavior-macro";
 label = "macro_quotes";
