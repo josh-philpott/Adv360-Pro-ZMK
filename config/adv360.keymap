@@ -129,10 +129,10 @@
 
         layer_Programming {
             bindings = <
- &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                            &trans     &trans                &trans                 &trans         &trans  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                            &trans     &trans                 &none                 &trans         &trans  &trans  &trans
  &trans  &trans  &trans  &trans  &trans  &trans                   &trans                                                            &trans   &kp PLUS        &kp LEFT_BRACE        &kp RIGHT_BRACE         &trans  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                   &trans      &trans  &trans                  &trans     &trans     &trans  &kp EQUAL      &kp LEFT_BRACKET      &kp RIGHT_BRACKET  &kp AMPERSAND  &trans  &trans
- &trans  &trans  &trans  &trans  &trans  &trans                                       &trans                  &trans                        &kp MINUS  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS       &kp PIPE  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                   &trans      &trans  &trans                  &trans     &trans     &trans  &kp EQUAL  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp AMPERSAND  &trans  &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                                       &trans                  &trans                        &kp MINUS      &kp LEFT_BRACKET      &kp RIGHT_BRACKET       &kp PIPE  &trans  &trans
  &trans  &trans  &trans  &trans  &trans                    &kp BACKSPACE  &kp ESCAPE  &trans                  &trans  &kp ENTER  &kp SPACE                           &trans                 &trans         &trans  &trans  &trans
             >;
         };
