@@ -1,3 +1,51 @@
+macro_move_window_u: macro_move_window_u{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_u";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp UP_ARROW>;
+};
+macro_move_window_d: macro_move_window_d{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_d";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp DOWN_ARROW>;
+};
+macro_move_window_dr: macro_move_window_dr{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_dr";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp K>;
+};
+macro_move_window_dl: macro_move_window_dl{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_dl";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp J>;
+};
+macro_move_window_ru: macro_move_window_ru{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_ru";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp I>;
+};
+macro_move_window_lu: macro_move_window_lu{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_lu";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LEFT_ALT>, <&kp U>;
+};
+macro_move_window_l: macro_move_window_l{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_l";
+#binding-cells = <0>;
+bindings = <&kp LCMD>, <&kp LCTRL>, <&kp LEFT_ALT>, <&kp LEFT_ARROW>;
+};
+macro_move_window_r: macro_move_window_r{
+compatible = "zmk,behavior-macro";
+label = "macro_move_window_r";
+#binding-cells = <0>;
+bindings = <&kp LCTRL>, <&kp LCMD>, <&kp LEFT_ALT>, <&kp RIGHT_ARROW>;
+};
 macro_ctrld: macro_ctrld{
 compatible = "zmk,behavior-macro";
 label = "macro_ctrld";
