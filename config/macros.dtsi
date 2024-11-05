@@ -2,7 +2,7 @@ macro_move_window_u: macro_move_window_u{
 compatible = "zmk,behavior-macro";
 label = "macro_move_window_u";
 #binding-cells = <0>;
-bindings = <&sk LCTRL>, <$sk LEFT_ALT>, <&kp UP_ARROW>;
+bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp UP_ARROW>;
 };
 macro_move_window_d: macro_move_window_d{
 compatible = "zmk,behavior-macro";
