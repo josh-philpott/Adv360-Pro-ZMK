@@ -63,7 +63,7 @@
  &kp F1  &kp F2  &kp F3  &kp F4  &kp F5  &kp F6            &tog 1                                                   &mo 3                &kp F7                &kp F8                 &kp F9                &kp F10  &kp F11  &kp F12
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none                &trans                &trans  &macro_move_window_lu  &macro_move_window_ru   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &macro_move_window_l  &macro_move_window_r  &macro_move_window_dl  &macro_move_window_dr   &trans   &trans
- &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                &trans                &trans                 &trans                 &trans   &trans   &trans
+ &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                   &sk                &trans                 &trans                 &trans   &trans   &trans
  &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                        &macro_move_window_u   &macro_move_window_d                 &trans   &trans   &trans
             >;
         };

@@ -2,19 +2,19 @@ macro_move_window_u: macro_move_window_u{
 compatible = "zmk,behavior-macro";
 label = "macro_move_window_u";
 #binding-cells = <0>;
-bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp UP_ARROW>;
+bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp UP>;
 };
 macro_move_window_d: macro_move_window_d{
 compatible = "zmk,behavior-macro";
 label = "macro_move_window_d";
 #binding-cells = <0>;
-bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp DOWN_ARROW>;
+bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp DOWN>;
 };
 macro_move_window_dr: macro_move_window_dr{
 compatible = "zmk,behavior-macro";
 label = "macro_move_window_dr";
 #binding-cells = <0>;
-bindings = <&sk LCTRL>, <&sk LEFT_ALT>, <&kp K>;
+bindings = <&sk LGUI>, <&sk LEFT_ALT>, <&kp K>;
 };
 macro_move_window_dl: macro_move_window_dl{
 compatible = "zmk,behavior-macro";
@@ -38,7 +38,7 @@ macro_move_window_l: macro_move_window_l{
 compatible = "zmk,behavior-macro";
 label = "macro_move_window_l";
 #binding-cells = <0>;
-bindings = <&sk LCMD>, <&sk LCTRL>, <&sk LEFT_ALT>, <&kp LEFT_ARROW>;
+bindings = <&sk LGUI>, <&sk LCTRL>, <&sk LEFT_ALT>, <&kp LEFT>;
 };
 macro_move_window_r: macro_move_window_r{
 compatible = "zmk,behavior-macro";
