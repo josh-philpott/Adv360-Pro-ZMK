@@ -64,7 +64,7 @@
  &trans  &trans  &trans  &trans  &trans  &trans             &none                                                   &none                &trans                &trans  &macro_move_window_lu  &macro_move_window_ru   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans             &none  &trans  &trans                  &trans  &trans   &none  &macro_move_window_l  &macro_move_window_r  &macro_move_window_dl  &macro_move_window_dr   &trans   &trans
  &trans  &trans  &trans  &trans  &trans  &trans                            &trans                  &trans                                   &sk                &trans                 &trans                 &trans   &trans   &trans
- &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                              &kp LA(LC(UP))   &macro_move_window_d                 &trans   &trans   &trans
+ &trans  &trans  &trans  &trans  &trans                    &trans  &trans  &trans                  &trans  &trans  &trans                        &sk LC(LA(UP_ARROW))   &macro_move_window_d                 &trans   &trans   &trans
             >;
         };
 
