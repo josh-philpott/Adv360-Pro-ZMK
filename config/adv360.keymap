@@ -64,7 +64,7 @@
  &trans     &trans    &trans    &trans     &trans  &trans               &none                                                                              &none    &trans   &kp U     &kp I      &none   &trans   &trans
  &trans  &kp LCTRL  &kp LALT  &kp LGUI     &trans  &trans              &tog 2     &trans        &trans                            &trans        &trans     &none  &kp LEFT   &kp J     &kp K  &kp RIGHT   &trans   &trans
  &trans     &trans    &trans    &trans     &trans  &trans                                       &trans                            &trans                               &sk  &trans    &trans     &trans   &trans   &trans
- &trans     &trans    &trans  &kp LEFT  &kp RIGHT                    &kp LEFT  &kp RIGHT  &kp LC(LALT)                  &kp LC(LA(LGUI))  &mt UP ENTER  &kp DOWN            &kp UP  &kp DOWN     &trans    &none   &trans
+ &trans     &trans    &trans  &kp LEFT  &kp RIGHT                    &kp LEFT  &kp RIGHT  &kp LC(LALT)                  &kp LC(LA(LGUI))  &mt ENTER UP  &kp DOWN            &kp UP  &kp DOWN     &trans    &none   &trans
             >;
         };
 
